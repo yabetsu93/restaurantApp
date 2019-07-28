@@ -10,3 +10,5 @@ start () {
 rebuild () {
     ng build
 }
+
+$*
